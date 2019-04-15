@@ -1,6 +1,7 @@
 # autoGit
 
 A tool for front-end automatic deployment of code to git's repository
+
 ##api
 ```javascript
 autoGit(
